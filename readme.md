@@ -19,6 +19,7 @@ This challenge is expected to take 2-4 hours, however you can spend as much time
 2. Create a file `diary.md` where you can journal each task.
 3. Choose at least 2 of the tasks that you'd like to complete. Feel free to do them all.
 
+> Reminder: Keep track of thoughts, approaches, decisions made etc in `diary.md`. We look at your communication skills as much as your code.
 
 ### Task 1 - Legacy support
 
